@@ -15,18 +15,3 @@ The Python is responsible for checking the Google sheet for incoming data and se
 
 ## The Objective 🎯<br/>
 The objective of this project is to ensure the safety of the Institutes students due to the Covid-19 pandemic whilst collecting the data of their attendance in a safe way.
- 
- 
-## Libraries that i used in this project are :
- all thanks to them of course! ♥
-
-
-**Python**<br/>
-1.[Gspread](https://github.com/burnash/gspread)<br/>
-2.[smtplib,ssl](https://github.com/python/cpython)<br/>
-
-**Arduino - C++**<br/>
-1.[LiquidCrystal_I2C](https://github.com/johnrickman/LiquidCrystal_I2C)<br/>
-2.[MFRC522](https://github.com/miguelbalboa/rfid)<br/>
-3.[MLXX90614](https://github.com/adafruit/Adafruit-MLX90614-Library)<br/>
-4.[ESP8266WIFI](https://github.com/ekstrand/ESP8266wifi)
